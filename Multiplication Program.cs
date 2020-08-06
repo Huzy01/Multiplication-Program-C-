@@ -45,6 +45,8 @@ namespace assignment_2
 
                 Console.ReadLine();
             }
+                Console.ReadLine();
+                Console.WriteLine("you got a total of" + ' ' + ipoints);
 
         }
     }
